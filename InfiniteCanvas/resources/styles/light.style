@@ -1,0 +1,14 @@
+Window {
+    background-color: #ffffff;
+    color: #222;
+    font-family: "default";
+}
+Toolbar {
+    background: #f5f5f5;
+    border-bottom: 1px solid #ccc;
+}
+Label {
+    font-size: 22px;
+    color: #333;
+    padding: 20px;
+}
